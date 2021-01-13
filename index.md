@@ -34,3 +34,4 @@
 - Android Studio
 - CodeBlocks/Dev-C++ , C/C++
 - Microsoft SQL Server
+- MATLAB
