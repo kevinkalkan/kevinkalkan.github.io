@@ -27,7 +27,7 @@
 
 
 ---
-##Programlama Dilleri ve Kullanılan Teknolojiler
+## Programlama Dilleri ve Kullanılan Teknolojiler
 - Visual Studio , C#
 - Eclipse , Java
 - Sublime Text/WAMP , HTML/JavaScript/PHP/CSS
