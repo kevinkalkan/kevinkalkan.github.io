@@ -27,4 +27,10 @@
 
 
 ---
-
+##Programlama Dilleri ve Kullanılan Teknolojiler
+- Visual Studio , C#
+- Eclipse , Java
+- Sublime Text/WAMP , HTML/JavaScript/PHP/CSS
+- Android Studio
+- CodeBlocks/Dev-C++ , C/C++
+- Microsoft SQL Server
