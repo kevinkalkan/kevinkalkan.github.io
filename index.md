@@ -6,15 +6,15 @@
 <img src="images/1.jpg?raw=true"/>
 
 ---
-[ICP Algoritması ile Görsel Kayıtlama Simülasyonu](/pdf/sample_presentation.pdf)
+[ICP Algoritması ile Görsel Kayıtlama Simülasyonu](/icp)
 <img src="images/2.jpg?raw=true"/>
 
 ---
-[Öğrenci Ders Notu Paylaşımı Mobil Uygulaması](http://example.com/)
+[Öğrenci Ders Notu Paylaşımı Mobil Uygulaması](/mobiluygulama)
 <img src="images/3.jpg?raw=true"/>
 
 ---
-[Görüntü İşleme Projesi](http://example.com/)
+[Görüntü İşleme Projesi](/goruntuisleme)
 <img src="images/222.jpg?raw=true"/>
 
 ---
