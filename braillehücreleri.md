@@ -1,0 +1,4 @@
+## Braille Hücreleri ve Piezoelektrik Devreleri
+
+Okul projesi kapsamında gerçekleştirilen bu projede Braille hücreleri konusunda araştırma yapılarak daha sonra basit bir devre tasarımı gerçekleştirilmiştir. 
+Görme engelli bireylerin günlük hayatındaki işleri yerine getirmekte zorlu çekmeleri, hatta okuma yazma gibi temel iletişim içerisine girememeleri nedeniyle teknolojiden yararlanılarak onların bu sorunlarına çözüm getirilmiştir. Bu tez kapsamında, görme engelli bireyler için geliştirilen Braille hücrelerinden oluşan Braille göstergesinin donanımsal yapısı, piezoelektrik devrelerinin çalışma prensipleri ve Braille alfabesinin bilgisayarda çevirilmesi ele alınmıştır. Bu zamana kadar bir çok farklı şekilde Braille göstergesi ve yazılımsal uygulamalar geliştirilmiştir. Teknolojinin günlük hayatımızdaki yeri göz önünde bulundurulduğunda Braille göstergelerinin cep telefonlarına kadar küçültülüp, taşınması kolay hale getirilmiştir.
